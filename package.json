@@ -1,0 +1,19 @@
+{
+  "name": "mob-http-response",
+  "version": "1.0.0",
+  "description": "Express HTTP Response handler",
+  "main": "index.js",
+  "keywords": ["http", "response", "handler", "express", "node", "status"],
+  "author": "MobileMed",
+  "license": "MIT",
+  "repository": "rubensmaroti/mob-http-response",
+  "homepage": "https://mobilemed.com.br/",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ]
+}
