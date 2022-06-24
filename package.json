@@ -6,7 +6,7 @@
   "keywords": ["http", "response", "handler", "express", "node", "status"],
   "author": "MobileMed",
   "license": "MIT",
-  "repository": "rubensmaroti/mob-http-response",
+  "repository": "mobilemed-dev/mob-http-response",
   "homepage": "https://mobilemed.com.br/",
   "engines": {
     "node": ">= 0.10.0"
